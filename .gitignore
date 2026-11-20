@@ -17,3 +17,8 @@ cprofile
 qa/L0_openai/openai
 tensorrtllm_models
 custom_tokenizer
+# Shell redirection artifacts
+=[0-9]*
+>[0-9]*
+*.tmp
+*.log
